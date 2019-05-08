@@ -18,8 +18,8 @@ email: spilloracle@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
   when agency, trust and truth are needed as a flash and not a reputation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+url: http://spilloracle.com
+twitter_username: spilloracle.spill@spilloracle
 github_username:  spilloracle
 
 # Build settings
