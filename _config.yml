@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Spilloracle
 email: spilloracle@gmail.com.com
-description: When things are not 1 or 0
+description: between, over, around 1 and 0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://spilloracle.com
 twitter_username: spill@spilloracle
